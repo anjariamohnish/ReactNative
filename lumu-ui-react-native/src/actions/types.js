@@ -1,0 +1,4 @@
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const PENDING_RECORDS_COUNT = 'PENDING_RECORDS_COUNT';
+export const TOGGLE_DRAWER = 'TOGGLE_DRAWER';

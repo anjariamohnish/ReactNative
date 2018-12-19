@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Capo Keys",
+    "description": "This project is really great.",
+    "slug": "CapoKeys",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/app-icon.png",
+    "splash": {
+      "image": "./assets/icons/loading-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.cennest.capokeys",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.cennest.capokeys",
+      "permissions": [],
+      "versionCode": 1
+    }
+  }
+}
